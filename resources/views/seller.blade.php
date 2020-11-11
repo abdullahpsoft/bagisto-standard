@@ -92,7 +92,7 @@
 
             <div class="section-title">
                 <h2>Sellers Features</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <h4>Became A Successful Seller With EliteShoppoing In Following Simple Steps.</h4>
             </div>
 
             <div class="row no-gutters">
@@ -100,33 +100,33 @@
                     <div class="content d-flex flex-column justify-content-center">
                         <div class="row">
                             <div class="col-md-6 icon-box" data-aos="fade-up">
-                                <i class="bx bx-receipt"></i>
-                                <h4>Corporis voluptates sit</h4>
+                                <i class="bx bx-id-card"></i>
+                                <h4>Personal Details</h4>
                                 <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                             </div>
                             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="bx bx-cube-alt"></i>
-                                <h4>Ullamco laboris nisi</h4>
+                                <i class="bx bxs-factory"></i>
+                                <h4>Corporate Verification</h4>
                                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                             </div>
                             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <i class="bx bx-images"></i>
-                                <h4>Labore consequatur</h4>
+                                <i class='bx bxs-been-here'></i>
+                                <h4>Address Details</h4>
                                 <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                             </div>
                             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <i class="bx bx-shield"></i>
-                                <h4>Beatae veritatis</h4>
+                                <i class="bx bx-receipt"></i>
+                                <h4>Billing Information</h4>
                                 <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                             </div>
                             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                                <i class="bx bx-atom"></i>
-                                <h4>Molestiae dolor</h4>
+                                <i class='bx bxs-shopping-bag'></i>
+                                <h4>SKU (Stock Keeping Unit)</h4>
                                 <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
                             </div>
                             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-                                <i class="bx bx-id-card"></i>
-                                <h4>Explicabo consectetur</h4>
+                                <i class="bx bxs-certification"></i>
+                                <h4>Confirmation</h4>
                                 <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                             </div>
                         </div>
@@ -149,20 +149,33 @@
                     <img src="seller/assets/img/details-1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 pt-4" data-aos="fade-up">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                    <p class="font-italic">
+                    <h3>Step 1</h3>
+                    <h3>Register And Add Your Products</h3>
+                    {{-- <p class="font-italic">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua.
-                    </p>
+                    </p> --}}
+                    <br>
                     <ul>
-                        <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                        <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                        <li><i class="icofont-check"></i> Iure at voluptas aspernatur dignissimos doloribus repudiandae.</li>
-                        <li><i class="icofont-check"></i> Est ipsa assumenda id facilis nesciunt placeat sed doloribus praesentium.</li>
+                        <li><i class="icofont-check"></i> Fill the Sign-Up Form with your required details.</li>
+                        <li><i class="icofont-check"></i> Login to a seller portal with your login credentials.</li>
+                        <li><i class="icofont-check"></i> Search for the category to add product of that category.</li>
+                        <li><i class="icofont-check"></i> Add Your products by providing all the essential details about product.</li>
                     </ul>
                     <p>
                         Voluptas nisi in quia excepturi nihil voluptas nam et ut. Expedita omnis eum consequatur non. Sed in asperiores aut repellendus. Error quisquam ab maiores. Quibusdam sit in officia
                     </p>
+                    <form>
+                    <div class="text-center">
+                        <button style="background: #fff;
+                        border: 2px solid #5777ba;
+                        padding: 10px 24px;
+                        color: #5777ba;
+                        transition: 0.4s;
+                        border-radius: 50px;
+                        margin-top: 5px;"><a href="#contact">Become A Seller </a></button>
+                    </div>
+                    </form>
                 </div>
             </div>
 
@@ -171,19 +184,20 @@
                     <img src="seller/assets/img/details-2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Corporis temporibus maiores provident</h3>
-                    <p class="font-italic">
+                    <h3>Step 2</h3>
+                    <h3>Receive Orders And Sell Your Products</h3>
+                    {{-- <p class="font-italic">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua.
-                    </p>
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
-                    <p>
-                        Inventore id enim dolor dicta qui et magni molestiae. Mollitia optio officia illum ut cupiditate eos autem. Soluta dolorum repellendus repellat amet autem rerum illum in. Quibusdam occaecati est nisi esse. Saepe aut dignissimos distinctio id enim.
-                    </p>
+                    </p> --}}
+                    <br>
+                    <ul>
+                        <li><i class="icofont-check"></i> Complete Listing your All Products.</li>
+                        <li><i class="icofont-check"></i> Start Selling Once Products are Listed.</li>
+                        <li><i class="icofont-check"></i> Receive orders on your products.</li>
+                        <li><i class="icofont-check"></i> Manage Your Orders through Seller Dashboard.</li>
+                        <li><i class="icofont-check"></i> On Receiving orders, simply package the order and the worry to us.</li>
+                    </ul>
                 </div>
             </div>
 
@@ -192,210 +206,31 @@
                     <img src="seller/assets/img/details-3.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-8 pt-5" data-aos="fade-up">
-                    <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-                    <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
+                    <h3>Step 3</h3>
+                    <h3>Receive Payments And Grow Your Business With Us</h3>
+                    <br>
                     <ul>
-                        <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                        <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                        <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+                        <li><i class="icofont-check"></i> Complete Your Order From Seller Portal.</li>
+                        <li><i class="icofont-check"></i> Receive Order Payments Directly into your account.</li>
+                        <li><i class="icofont-check"></i> Maintain Your Products Stock.</li>
+                        <li><i class="icofont-check"></i> Grow your Business.</li>
                     </ul>
-                    <p>
+                    {{-- <p>
                         Qui consequatur temporibus. Enim et corporis sit sunt harum praesentium suscipit ut voluptatem. Et nihil magni debitis consequatur est.
                     </p>
                     <p>
                         Suscipit enim et. Ut optio esse quidem quam reiciendis esse odit excepturi. Vel dolores rerum soluta explicabo vel fugiat eum non.
-                    </p>
+                    </p> --}}
                 </div>
             </div>
 
-            <div class="row content">
-                <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                    <img src="seller/assets/img/details-4.png" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-                    <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-                    <p class="font-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua.
-                    </p>
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
-                    <ul>
-                        <li><i class="icofont-check"></i> Et praesentium laboriosam architecto nam .</li>
-                        <li><i class="icofont-check"></i> Eius et voluptate. Enim earum tempore aliquid. Nobis et sunt consequatur. Aut repellat in numquam velit quo dignissimos et.</li>
-                        <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-                    </ul>
-                </div>
-            </div>
+            
 
         </div>
-    </section><!-- End Details Section -->
+    </section>
+    <!-- End Details Section -->
 
-    <!-- ======= Gallery Section ======= -->
-{{--    <section id="gallery" class="gallery">--}}
-{{--        <div class="container">--}}
-
-{{--            <div class="section-title">--}}
-{{--                <h2>Gallery</h2>--}}
-{{--                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>--}}
-{{--            </div>--}}
-
-{{--            <div class="owl-carousel gallery-carousel" data-aos="fade-up">--}}
-{{--                <a href="seller/assets/img/gallery/gallery-1.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-1.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-2.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-2.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-3.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-3.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-4.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-4.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-5.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-5.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-6.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-6.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-7.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-7.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-8.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-8.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-9.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-9.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-10.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-10.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-11.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-11.png" alt=""></a>--}}
-{{--                <a href="seller/assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel"><img src="seller/assets/img/gallery/gallery-12.png" alt=""></a>--}}
-{{--            </div>--}}
-
-{{--        </div>--}}
-{{--    </section><!-- End Gallery Section -->--}}
-
-    <!-- ======= Testimonials Section ======= -->
-{{--    <section id="testimonials" class="testimonials section-bg">--}}
-{{--        <div class="container">--}}
-
-{{--            <div class="section-title">--}}
-{{--                <h2>Testimonials</h2>--}}
-{{--                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>--}}
-{{--            </div>--}}
-
-{{--            <div class="owl-carousel testimonials-carousel" data-aos="fade-up">--}}
-
-{{--                <div class="testimonial-wrap">--}}
-{{--                    <div class="testimonial-item">--}}
-{{--                        <img src="seller/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">--}}
-{{--                        <h3>Saul Goodman</h3>--}}
-{{--                        <h4>Ceo &amp; Founder</h4>--}}
-{{--                        <p>--}}
-{{--                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>--}}
-{{--                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.--}}
-{{--                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-
-{{--                <div class="testimonial-wrap">--}}
-{{--                    <div class="testimonial-item">--}}
-{{--                        <img src="seller/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">--}}
-{{--                        <h3>Sara Wilsson</h3>--}}
-{{--                        <h4>Designer</h4>--}}
-{{--                        <p>--}}
-{{--                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>--}}
-{{--                            Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.--}}
-{{--                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-
-{{--                <div class="testimonial-wrap">--}}
-{{--                    <div class="testimonial-item">--}}
-{{--                        <img src="seller/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">--}}
-{{--                        <h3>Jena Karlis</h3>--}}
-{{--                        <h4>Store Owner</h4>--}}
-{{--                        <p>--}}
-{{--                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>--}}
-{{--                            Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.--}}
-{{--                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-
-{{--                <div class="testimonial-wrap">--}}
-{{--                    <div class="testimonial-item">--}}
-{{--                        <img src="seller/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">--}}
-{{--                        <h3>Matt Brandon</h3>--}}
-{{--                        <h4>Freelancer</h4>--}}
-{{--                        <p>--}}
-{{--                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>--}}
-{{--                            Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.--}}
-{{--                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-
-{{--                <div class="testimonial-wrap">--}}
-{{--                    <div class="testimonial-item">--}}
-{{--                        <img src="seller/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">--}}
-{{--                        <h3>John Larson</h3>--}}
-{{--                        <h4>Entrepreneur</h4>--}}
-{{--                        <p>--}}
-{{--                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>--}}
-{{--                            Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.--}}
-{{--                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-
-{{--            </div>--}}
-
-{{--        </div>--}}
-{{--    </section><!-- End Testimonials Section -->--}}
-
-    <!-- ======= Pricing Section ======= -->
-{{--    <section id="pricing" class="pricing">--}}
-{{--        <div class="container">--}}
-
-{{--            <div class="section-title">--}}
-{{--                <h2>Pricing</h2>--}}
-{{--                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>--}}
-{{--            </div>--}}
-
-{{--            <div class="row no-gutters">--}}
-
-{{--                <div class="col-lg-4 box" data-aos="fade-right">--}}
-{{--                    <h3>Free</h3>--}}
-{{--                    <h4>$0<span>per month</span></h4>--}}
-{{--                    <ul>--}}
-{{--                        <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>--}}
-{{--                        <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>--}}
-{{--                        <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>--}}
-{{--                    </ul>--}}
-{{--                    <a href="#" class="get-started-btn">Get Started</a>--}}
-{{--                </div>--}}
-
-{{--                <div class="col-lg-4 box featured" data-aos="fade-up">--}}
-{{--                    <h3>Business</h3>--}}
-{{--                    <h4>$29<span>per month</span></h4>--}}
-{{--                    <ul>--}}
-{{--                        <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>--}}
-{{--                    </ul>--}}
-{{--                    <a href="#" class="get-started-btn">Get Started</a>--}}
-{{--                </div>--}}
-
-{{--                <div class="col-lg-4 box" data-aos="fade-left">--}}
-{{--                    <h3>Developer</h3>--}}
-{{--                    <h4>$49<span>per month</span></h4>--}}
-{{--                    <ul>--}}
-{{--                        <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>--}}
-{{--                        <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>--}}
-{{--                    </ul>--}}
-{{--                    <a href="#" class="get-started-btn">Get Started</a>--}}
-{{--                </div>--}}
-
-{{--            </div>--}}
-
-{{--        </div>--}}
-{{--    </section><!-- End Pricing Section -->--}}
+    
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
@@ -471,7 +306,7 @@
 
             <div class="row">
 
-                <div class="col-lg-6">
+                {{-- <div class="col-lg-6">
                     <div class="row">
                         <div class="col-lg-6 info" data-aos="fade-up">
                             <i class="bx bx-map"></i>
@@ -494,34 +329,126 @@
                             <p>Mon - Fri: 9AM to 5PM<br>Sunday: 9AM to 1PM</p>
                         </div>
                     </div>
-                </div>
+                </div> --}}
+                <div class="col-lg-3"></div>
 
                 <div class="col-lg-6">
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-up">
-                        <div class="form-group">
-                            <input placeholder="Your Name" type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                            <div class="validate"></div>
+                    <form action="/seller-registration" method="POST" >
+                        @csrf
+                        <h4>Personal Details</h4>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Your Name" type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="Your CNIC" type="text" class="form-control" name="cnic" id="cnic" data-rule="minlen:13" data-msg="Please enter a valid CNIC" />
+                                <div class="validate"></div>
+                            </div>
                         </div>
-                        <div class="form-group">
-                            <input placeholder="Your Email" type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
-                            <div class="validate"></div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Your Email" type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="Password" type="password" name="password" class="form-control" id="password" data-rule="minlen:8" data-msg="Please enter at least 8 chars" />
+                                <div class="validate"></div>
+                            </div>                            
                         </div>
-                        <div class="form-group">
-                            <input placeholder="Subject" type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                            <div class="validate"></div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Your Phone Number" type="text" class="form-control" name="phone" id="phone" data-rule="minlen:10" data-msg="Please enter a valid phone number" />
+                                <div class="validate"></div>
+                            </div>                            
                         </div>
-                        <div class="form-group">
-                            <textarea placeholder="Message" class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us"></textarea>
-                            <div class="validate"></div>
+                        <h4>Corporate Verification</h4>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Business Name" type="text" name="business_name" class="form-control" id="business_name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="Business Registration Number" type="text" class="form-control" name="registration_number" id="registration_number" data-rule="minlen:5" data-msg="Please enter a valid CNIC" />
+                                <div class="validate"></div>
+                            </div>
                         </div>
-                        <div class="mb-3">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Business Type" type="text" class="form-control" name="business_type" id="business_type" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="business_doc">Business Documents</label>
+                                <input style="border: none; padding-top: 1px;" type="file" name="business_doc" class="form-control" id="business_doc" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>                            
                         </div>
-                        <div class="text-center"><button type="submit">Send Message</button></div>
+                        <h4>Address Details</h4>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <textarea placeholder="Your Address" class="form-control" name="address" id="address" rows="3" data-rule="required" data-msg=""></textarea>
+                                <div class="validate"></div>
+                            </div>
+                            
+                            <div class="form-group col-md-6">
+                                <input placeholder="Country" type="text" class="form-control" name="country" id="country" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>
+                        </div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Province" type="text" class="form-control" name="province" id="province" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="City" type="text" class="form-control" name="city" id="city" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>                            
+                        </div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Area" type="text" class="form-control" name="area" id="area" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="Postal Code" type="text" class="form-control" name="postal_code" id="postal_code" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>                            
+                        </div>
+                        
+                        <h4>Bnak Account Info</h4>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="Bank Name" type="text" class="form-control" name="bank" id="bank" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input placeholder="Branch Code" type="text" class="form-control" name="branch_code" id="branch_code" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>                            
+                        </div>
+                        <div class="row col-md-12">
+                            <div class="form-group col-md-6">
+                                <input placeholder="IBAN" type="text" class="form-control" name="iban" id="iban" data-rule="required" data-msg="" />
+                                <div class="validate"></div>
+                            </div>                            
+                        </div>
+                        
+                        <div class="text-center">
+                            <button type="submit" style="background: #fff;
+                            border: 2px solid #5777ba;
+                            padding: 10px 24px;
+                            color: #5777ba;
+                            transition: 0.4s;
+                            border-radius: 50px;
+                            margin-top: 5px;">Regiter Yourself As A Seller</button>
+                        </div>
+                        
                     </form>
                 </div>
+                
+                <div class="col-lg-3"></div>
 
             </div>
 
@@ -531,7 +458,7 @@
 </main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
-<footer id="footer">
+{{-- <footer id="footer">
 
     <div class="footer-newsletter" data-aos="fade-up">
         <div class="container">
@@ -601,7 +528,7 @@
     </div>
 
     <
-</footer><!-- End Footer -->
+</footer><!-- End Footer --> --}}
 
 <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

@@ -13,3 +13,4 @@
 
 
 Route::get('/became-a-seller', 'sellerController@seller');
+Route::post('/seller-registration', 'sellerController@register');
